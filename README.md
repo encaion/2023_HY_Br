@@ -4,7 +4,7 @@
 ## [bit.ly/hy_br](https://bit.ly/hy_br)
 
 ## Zoom Link
-* 1일차: xx
+* 1일차: https://us02web.zoom.us/j/88489322772
 * 2일차: xx
 * 3일차: xx
 * 4일차: xx
