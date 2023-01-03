@@ -11,7 +11,8 @@
 * 5일차: xx
 * 6일차: xx
 
-
+## Tutorial Link
+https://www.brightics.ai/kr/docs/ai/manual/tutorial/b19f13b94cc87c33.html#1754d644c2f521c8
 
 # 파일 다운로드 방법
 
