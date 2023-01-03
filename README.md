@@ -1,7 +1,16 @@
 # 한양대학교 CDS 과정
 
-## Github 저장소 단축 URL
+## 교육자료 Github 저장소 단축 URL
 ## [bit.ly/hy_br](https://bit.ly/hy_br)
+
+## Zoom Link
+* 1일차: xx
+* 2일차: xx
+* 3일차: xx
+* 4일차: xx
+* 5일차: xx
+* 6일차: xx
+
 
 
 # 파일 다운로드 방법
