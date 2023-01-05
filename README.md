@@ -14,6 +14,9 @@
 ## Tutorial Link
 https://www.brightics.ai/kr/docs/ai/manual/tutorial/b19f13b94cc87c33.html#1754d644c2f521c8
 
+## corr. link
+https://guessthecorrelation.com/
+
 # 파일 다운로드 방법
 
 #### 1) 전체 파일 다운로드 
