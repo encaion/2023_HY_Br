@@ -7,8 +7,8 @@
 * 1일차: xx
 * 2일차: xx
 * 3일차: xx
-* 4일차: https://us02web.zoom.us/j/85014779948
-* 5일차: xx
+* 4일차: xx
+* 5일차: https://us02web.zoom.us/j/87395394536
 * 6일차: xx
 
 ## Tutorial Link
