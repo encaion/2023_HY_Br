@@ -8,8 +8,8 @@
 * 2일차: xx
 * 3일차: xx
 * 4일차: xx
-* 5일차: https://us02web.zoom.us/j/87395394536
-* 6일차: xx
+* 5일차: xx
+* 6일차: https://us02web.zoom.us/j/89365402866
 
 ## Tutorial Link
 https://www.brightics.ai/kr/docs/ai/manual/tutorial/b19f13b94cc87c33.html#1754d644c2f521c8
