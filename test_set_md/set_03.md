@@ -1,19 +1,19 @@
 * **set_03_covid_19_confirmed.csv**
 
-\[변수명:	설명\]
-Province_State:	각 국가의 하위 행정구역
-Country_Region:	국가
-Lat:	위도
-Long:	경도
-날짜:	월, 일, 년 순으로 변수명이 적혀있으며 누적 확진자 수가 기록되어 있다.
-
-* **set_03_covid_19_death.csv**
-\[변수명:	설명\]
-Province_State:	각 국가의 하위 행정구역
-Country_Region:	국가
-Lat:	위도
-Long:	경도
-날짜:	월, 일, 년 순으로 변수명이 적혀있으며 누적 사망자 수가 기록되어 있다.
+\[변수명:	설명\]  
+Province_State:	각 국가의 하위 행정구역  
+Country_Region:	국가  
+Lat:	위도  
+Long:	경도  
+날짜:	월, 일, 년 순으로 변수명이 적혀있으며 누적 확진자 수가 기록되어 있다.  
+  
+* **set_03_covid_19_death.csv**  
+\[변수명:	설명\]  
+Province_State:	각 국가의 하위 행정구역  
+Country_Region:	국가  
+Lat:	위도  
+Long:	경도  
+날짜:	월, 일, 년 순으로 변수명이 적혀있으며 누적 사망자 수가 기록되어 있다.  
 
 ### 전처리
 1) Wide Form인 확진자 데이터와 사망자 데이터를 Long Form으로 변환(unpivot 사용) 하고, 이 때 "Lat", "Long" 변수를 제외 하시오.
