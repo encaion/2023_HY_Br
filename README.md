@@ -1,21 +1,3 @@
-# 한양대학교 CDS 과정
-
-## 교육자료 Github 저장소 단축 URL
-## [bit.ly/hy_br](https://bit.ly/hy_br)
-
-## Zoom Link
-* 1일차: xx
-* 2일차: xx
-* 3일차: xx
-* 4일차: xx
-* 5일차: xx
-* 6일차: https://us02web.zoom.us/j/89365402866
-
-## Tutorial Link
-https://www.brightics.ai/kr/docs/ai/manual/tutorial/b19f13b94cc87c33.html#1754d644c2f521c8
-
-## corr. link
-https://guessthecorrelation.com/
 
 # 파일 다운로드 방법
 
